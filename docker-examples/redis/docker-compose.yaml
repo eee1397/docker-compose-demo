@@ -1,0 +1,9 @@
+version: '2'
+services:
+  redis5:
+    image: redis:5.0
+    ports:
+      - 6379:6379
+    restart: always
+    hostname: demo-redis
+    container_name: demo-redis
