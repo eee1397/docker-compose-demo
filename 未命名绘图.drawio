@@ -16,7 +16,7 @@
         <mxCell id="Qa2dCCLPwdOy2a_UL4VP-1" value="采集库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="750" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-2" target="Qa2dCCLPwdOy2a_UL4VP-11">
+        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-2" target="Qa2dCCLPwdOy2a_UL4VP-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="548" y="710" />
@@ -39,13 +39,13 @@
         <mxCell id="Qa2dCCLPwdOy2a_UL4VP-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="180" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-12" target="Qa2dCCLPwdOy2a_UL4VP-30">
+        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-12" target="Qa2dCCLPwdOy2a_UL4VP-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-12" target="Qa2dCCLPwdOy2a_UL4VP-29">
+        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-12" target="Qa2dCCLPwdOy2a_UL4VP-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-12" target="Qa2dCCLPwdOy2a_UL4VP-28">
+        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-12" target="Qa2dCCLPwdOy2a_UL4VP-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="595" y="200" />
@@ -53,7 +53,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-12" value="归档服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-12" value="归档服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="545" y="270" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qa2dCCLPwdOy2a_UL4VP-19" value="前端页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -150,7 +150,7 @@
         <mxCell id="Qa2dCCLPwdOy2a_UL4VP-53" value="单行数据整理归档" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="580" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-2" target="Qa2dCCLPwdOy2a_UL4VP-8">
+        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="Qa2dCCLPwdOy2a_UL4VP-2" target="Qa2dCCLPwdOy2a_UL4VP-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="548" y="710" />
@@ -180,7 +180,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-66" value="不同过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa2dCCLPwdOy2a_UL4VP-65">
+        <mxCell id="Qa2dCCLPwdOy2a_UL4VP-66" value="不通过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Qa2dCCLPwdOy2a_UL4VP-65">
           <mxGeometry x="-0.108" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
